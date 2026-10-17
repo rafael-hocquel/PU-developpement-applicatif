@@ -1,4 +1,5 @@
 # Simulateur de Jeu de Rôle — Windows Forms
+*Note : Ce projet a été initialement développé hors de GitHub (instance GitLab interne ou développement local) puis importé ici pour archivage, d'où l'absence d'historique de commits.*
 
 Application desktop en C# / Windows Forms permettant de créer des personnages, de gérer leur progression et de résoudre des épreuves grâce à des lancés de dés. Le projet embarque un moteur de règles complet (modificateurs de dés, pénalités de remplacement, réussites automatiques et paliers de difficulté) totalement dissocié de l'interface graphique.
 
